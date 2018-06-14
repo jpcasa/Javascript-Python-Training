@@ -22,3 +22,16 @@ Find real examples for:
     * uauth
  * Testing
     * Mocha
+
+### Python Topics: ###
+Find real examples for:
+* Peewee
+* Testing
+   * Dice Game
+   * Dungeon Game
+   * Rock, Paper, Scissors
+* Flask
+  * Simple Journal
+  * Basic Social Network
+* Django
+  * e-learning Site
